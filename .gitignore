@@ -4,6 +4,12 @@
 #Idea files
 /.idea/
 
+#Vs code Files
+/.vscode/
+
+#Maven files
+/target/
+
 # Log file
 *.log
 *.lst
